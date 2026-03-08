@@ -1,0 +1,11 @@
+# GitHub Pages configuration
+title: Spaceports 2025
+description: Interactive web atlas of global spaceport launch sites
+url: "https://gegz-geom.github.io"
+baseurl: "/spaceports2025"
+
+# Exclude files from the built site
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
